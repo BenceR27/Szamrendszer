@@ -1,0 +1,7 @@
+C:\Users\rizb\source\repos\Szamrendszerek\Szamrendszerek\bin\Debug\Szamrendszerek.exe.config
+C:\Users\rizb\source\repos\Szamrendszerek\Szamrendszerek\bin\Debug\Szamrendszerek.exe
+C:\Users\rizb\source\repos\Szamrendszerek\Szamrendszerek\bin\Debug\Szamrendszerek.pdb
+C:\Users\rizb\source\repos\Szamrendszerek\Szamrendszerek\obj\Debug\Szamrendszerek.csproj.AssemblyReference.cache
+C:\Users\rizb\source\repos\Szamrendszerek\Szamrendszerek\obj\Debug\Szamrendszerek.csproj.CoreCompileInputs.cache
+C:\Users\rizb\source\repos\Szamrendszerek\Szamrendszerek\obj\Debug\Szamrendszerek.exe
+C:\Users\rizb\source\repos\Szamrendszerek\Szamrendszerek\obj\Debug\Szamrendszerek.pdb
